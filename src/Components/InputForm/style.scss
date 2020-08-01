@@ -1,0 +1,15 @@
+.contactFormEl {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 30px;
+
+  &__button {
+    height: 50px;
+    color: #ffffff;
+    border: #ffffff solid 2px;
+    background: linear-gradient(#e66465, #9198e5);
+  }
+}
